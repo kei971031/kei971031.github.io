@@ -50,8 +50,8 @@ Researches
    <h2>
   <div style="margin-bottom: 15px;">
    3D 모델 정합 기반 신체 치수 측정(CDE DX Awards 2022 장려상)
-    <h4>3D 휴먼 스캔 모델에 템플릿 모델을 정합하여 신체 치수 측정 </h4>
   </div>
+  <h4>3D 휴먼 스캔 모델에 템플릿 모델을 정합하여 신체 치수 측정 </h4>
   <div style="text-align: center;">
     <img src='/images/CDE신체측정2.png' alt="Plenoxel2" width="1200" style="margin-top: 15px;"/>
   </div>
