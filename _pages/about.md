@@ -64,37 +64,34 @@ Papers
 <div style="margin-bottom: 30px;">
      <h3>
   <div style="margin-bottom: 15px;">
-    <strong>Unrealistic Feature Suppression for GANs Camera</strong><br>
-    <strong>Sanghun Kim </strong> & Seungkyu Lee*, Master Degree Thesis
+    <strong>Unrealistic Feature Suppression for GANs</strong></h3>
+    <h4><strong>Sanghun Kim </strong>  & Seungkyu Lee*, Master Degree Thesis</h4>
   </div>
   <div style="text-align: center;">
     <img src='/images/gan.png' alt="Gan" width="900" style="margin-top: 15px;"/>
   </div>
-     </h3>
 </div>
 
 <div style="margin-bottom: 30px;">
   <h3>
   <div style="margin-bottom: 15px;">
-    <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
-    Jungeun Lee, <strong>Sanghun Kim</strong>, Hansol Lee, Tserendorj Adiya,  Hwasup Lim*, WACV 2024
+    <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong>     </h3>
+     <h4>Jungeun Lee, <strong>Sanghun Kim</strong>, Hansol Lee, Tserendorj Adiya,  Hwasup Lim*, WACV 2024</h4>
   </div>
   <div style="text-align: center;">
-    <img src='/images/raydiffusion.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
+    <img src='/images/raydiffusion.png' alt="PIDiffu Demo" width="900" style="margin-top: 15px;"/>
   </div>
-  </h3>
 </div>
 
 <!-- Second Project -->
 <div style="margin-bottom: 30px;">
     <h3>
   <div style="margin-bottom: 15px;">
-    <strong>Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation</strong><br>
-    Tserendorj Adiya, <strong>Sanghun Kim</strong>, Jung Eun Lee, Jae Shin Yoon, Hwasup Lim*, ICLR 2024 
+    <strong>Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation</strong>    </h3>
+    <h4> Tserendorj Adiya, <strong>Sanghun Kim</strong>, Jung Eun Lee, Jae Shin Yoon, Hwasup Lim*, ICLR 2024 </h4>
   </div>
   <div style="text-align: center;">
-    <img src='/images/BTDM.png' alt="BTDM" width="600" style="margin-top: 15px;"/>
+    <img src='/images/BTDM.png' alt="BTDM" width="900" style="margin-top: 15px;"/>
   </div>
-    </h3>
 </div>
 
