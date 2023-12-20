@@ -25,7 +25,7 @@ Researches
 <div style="margin-bottom: 30px;">
    <h2>
   <div style="margin-bottom: 15px;">
-   Novel view & pose synthesis using stable diffusion controlnet<br> <br></h2>
+   Novel view & pose synthesis using stable diffusion controlnet</h2>
    <h4> ControlNet을 활용하여, 3D 오브젝트 생성에 필요한 다시점 랜더링 이미지 생성 <br></h4>
   </div>
   <div style="text-align: center;">
