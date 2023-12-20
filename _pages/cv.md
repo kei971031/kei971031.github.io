@@ -8,6 +8,11 @@ redirect_from:
 
 ---
 
+{% include base_path %}
+**Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlBhALBUjZDQGSGNQ?e=i3byMX)**
+
+---
+
 Education
 ======
 * B.S. in Computer Science, KyungHee University, 2018
