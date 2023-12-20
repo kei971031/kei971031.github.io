@@ -23,7 +23,7 @@ Computer vision based on Generative model (e.g., 2D Video Generation, 3D Avatar 
 Researches
 ======
 <div style="margin-bottom: 30px;">
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 30px;">
     Novel view & pose synthesis using stable diffusion controlnet<br>
   </div>
   <div style="text-align: center;">
