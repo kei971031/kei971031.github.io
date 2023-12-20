@@ -33,6 +33,7 @@ Researches
   </div> 
    </h2>
 </div>
+</div>
 
 <div style="margin-bottom: 30px;">
    <h2>
