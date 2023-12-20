@@ -24,7 +24,6 @@ Researches
 ======
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
-    <font size="100">Novel view & pose synthesis using stable diffusion controlnet</font><br>
     <h2>Novel view & pose synthesis using stable diffusion controlnet</h2><br>
   </div>
   <div style="text-align: center;">
