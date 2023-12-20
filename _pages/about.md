@@ -24,7 +24,7 @@ Researches
 ======
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
-    Novel view & pose synthesis using stable diffusion controlnet<br>
+    <p>Novel view & pose synthesis using stable diffusion controlnet - 10px </p><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/controlnet.png' alt="Controlnet" width="1200" style="margin-top: 15px;"/>
