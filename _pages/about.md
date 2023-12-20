@@ -24,9 +24,21 @@ Researches
 ======
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
-    <strong>Camera</strong><br>
+    Novel view & pose synthesis using stable diffusion controlnet<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/controlnet.png' alt="Dynamic Appearance Demo" width="1500" style="margin-top: 15px;"/>
+    <img src='/images/controlnet.png' alt="Controlnet" width="1500" style="margin-top: 15px;"/>
+  </div>
+</div>
+
+<div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 15px;">
+    Novel view & pose synthesis using stable diffusion controlnet<br>
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/plenoxel.gif' alt="Plenoxel" width="1500" style="margin-top: 15px;"/>
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/plenoxel2.png' alt="Plenoxel2" width="1500" style="margin-top: 15px;"/>
   </div>
 </div>
