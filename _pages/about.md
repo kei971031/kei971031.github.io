@@ -26,12 +26,13 @@ Researches
    <h2>
   <div style="margin-bottom: 15px;">
    Novel view & pose synthesis using stable diffusion controlnet
-   <h4> ControlNet을 활용하여, 3D 오브젝트 생성에 필요한 다시점 랜더링 이미지 생성 <br></h4>
+   
   </div>
   <div style="text-align: center;">
     <img src='/images/controlnet.png' alt="Controlnet" width="1200" style="margin-top: 30px;"/>
   </div> 
      </h2>
+     <h4> ControlNet을 활용하여, 3D 오브젝트 생성에 필요한 다시점 랜더링 이미지 생성 <br></h4>
 </div>
 
 <div style="margin-bottom: 30px;">
