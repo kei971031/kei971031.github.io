@@ -37,12 +37,13 @@ Researches
 <div style="margin-bottom: 30px;">
    <h2>
   <div style="margin-bottom: 15px;">
-   3D volumetric diffusion model<br> <br></h2>
+   3D volumetric diffusion model
   </div>
-  <h4> Plenoxel 방식으로 표현된 3D 볼륨을 생성하기 위한 3D Diffusion 네트워크 학습 <br></h4>
+  <h4> Plenoxel 방식으로 표현된 3D 볼륨을 생성하기 위한 3D Diffusion 네트워크 학습</h4>
   <div style="text-align: center;">
     <img src='/images/plenoxel4.gif' alt="Plenoxel2" width="1200" style="margin-top: 30px;"/>
   </div>
+</h2>
 </div>
 
 <div style="margin-bottom: 30px;">
