@@ -41,10 +41,7 @@ Researches
   </div>
   <h4> Plenoxel 방식으로 표현된 3D 볼륨을 생성하기 위한 3D Diffusion 네트워크 학습 <br></h4>
   <div style="text-align: center;">
-    <img src='/images/plenoxel2.png' alt="Plenoxel" width="1200" style="margin-top: 30px;"/>
-  </div>
-  <div style="text-align: center;">
-    <img src='/images/plenoxel.gif' alt="Plenoxel2" width="1200" style="margin-top: 30px;"/>
+    <img src='/images/plenoxe4.gif' alt="Plenoxel2" width="1200" style="margin-top: 30px;"/>
   </div>
 </div>
 
