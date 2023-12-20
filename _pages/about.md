@@ -23,11 +23,11 @@ Computer vision based on Generative model (e.g., 2D Video Generation, 3D Avatar 
 Researches
 ======
 <div style="margin-bottom: 30px;">
-  <div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 15px;">
     Novel view & pose synthesis using stable diffusion controlnet<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/controlnet.png' alt="Controlnet" width="1500" style="margin-top: 15px;"/>
+    <img src='/images/controlnet.png' alt="Controlnet" width="1200" style="margin-top: 15px;"/>
   </div>
 </div>
 
@@ -36,9 +36,9 @@ Researches
     Novel view & pose synthesis using stable diffusion controlnet<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/plenoxel.gif' alt="Plenoxel" width="1500" style="margin-top: 15px;"/>
+    <img src='/images/plenoxel.gif' alt="Plenoxel" width="1200" style="margin-top: 15px;"/>
   </div>
   <div style="text-align: center;">
-    <img src='/images/plenoxel2.png' alt="Plenoxel2" width="1500" style="margin-top: 15px;"/>
+    <img src='/images/plenoxel2.png' alt="Plenoxel2" width="1200" style="margin-top: 15px;"/>
   </div>
 </div>
