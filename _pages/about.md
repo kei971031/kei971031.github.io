@@ -27,6 +27,6 @@ Researches
     <strong>Camera</strong><br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/controlnet.png' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+    <img src='/images/controlnet.png' alt="Dynamic Appearance Demo" width="900" style="margin-top: 15px;"/>
   </div>
 </div>
