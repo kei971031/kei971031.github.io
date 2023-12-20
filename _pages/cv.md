@@ -1,4 +1,4 @@
-![image](https://github.com/kei971031/kei971031.github.io/assets/87850850/04a3935f-a866-4035-9d6d-1d79f1ea1c03)---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
