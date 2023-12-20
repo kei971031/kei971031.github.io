@@ -28,7 +28,7 @@ Researches
    Novel view & pose synthesis using stable diffusion controlnet<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/controlnet.png' alt="Controlnet" width="1200" style="margin-top: 15px;"/>
+    <img src='/images/controlnet.png' alt="Controlnet" width="1200" style="margin-top: 30px;"/>
   </div>
      </h2>
 </div>
