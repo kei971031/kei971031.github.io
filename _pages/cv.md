@@ -37,7 +37,7 @@ Research Experiences
 Publications
 ======
 
-- **"Sanghun Kim and Seunkyu Lee, Unrealistic Feature Suppression for Generative Adversarial Networks"**, **Sanghun Kim** and Seunkyu Lee\*, Master Degree Thesis
+- **"Unrealistic Feature Suppression for Generative Adversarial Networks"**, **Sanghun Kim** and Seunkyu Lee\*, Master Degree Thesis
 
 - **"Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation"**, Tserendorj Adiya, **Sanghun Kim**, Jung Eun Lee, Jae Shin Yoon, Hwasup Lim\*, ICLR 2024
 
