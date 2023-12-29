@@ -37,7 +37,7 @@ Researches
    3D volumetric diffusion model
   <h4> Plenoxel 방식으로 표현된 3D 볼륨을 생성하기 위한 3D Diffusion 네트워크 학습</h4>
   <div style="text-align: center;">
-    <img src='/images/plenoxel4.gif' alt="Plenoxel2" width="1200" style="margin-top: 30px;"/>
+    <img src='/images/plenoxel5.gif' alt="Plenoxel2" width="1200" style="margin-top: 30px;"/>
 </div> </h2> </div> </div>
 
 <div style="margin-bottom: 30px;">
@@ -77,6 +77,6 @@ Papers
     <h3><strong>Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation</strong>  
     <h4> Tserendorj Adiya, <strong>Sanghun Kim</strong>, Jung Eun Lee, Jae Shin Yoon, Hwasup Lim*, ICLR 2024 </h4>
   <div style="text-align: center;">
-    <img src='/images/BTDM.png' alt="BTDM" width="900" style="margin-top: 15px;"/>
+    <img src='/images/btdm.gif' alt="BTDM" width="900" style="margin-top: 15px;"/>
   </div>  </h3>  </div>  </div>
 
