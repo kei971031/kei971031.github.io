@@ -25,6 +25,15 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <h2>
+   Blender Addon to construct multi-view data sets
+   <h4> 다시점 데이터 셋 구성을 위해 Blender Addon 제작 </h4>
+  <div style="text-align: center;">
+    <img src='/images/blender_addon2.gif' alt="blender_addon" width="1200" style="margin-top: 30px;"/>
+  </div>  </h2></div></div>
+
+<div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 15px;">
+    <h2>
    Novel view & pose synthesis using stable diffusion controlnet
    <h4> ControlNet을 활용하여, 3D 오브젝트 생성에 필요한 다시점 랜더링 이미지 생성 </h4>
   <div style="text-align: center;">
