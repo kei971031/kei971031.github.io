@@ -26,7 +26,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <h2>
    Blender Addon to construct multi-view data sets
-   <h4> 다시점 데이터 셋 구성을 위해 Blender Addon 제작 (https://github.com/kei971031/blender_renderer/tree/master) </h4>
+   <h4> 다시점 데이터 셋 구성을 위해 Blender Addon 제작 [Blender-Renderer](https://github.com/kei971031/blender_renderer/tree/master/) </h4>
   <div style="text-align: center;">
     <img src='/images/blender_addon2.gif' alt="blender_addon" width="1200" style="margin-top: 30px;"/>
   </div>  </h2></div></div>
