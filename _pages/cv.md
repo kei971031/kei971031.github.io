@@ -20,7 +20,7 @@ Research Experiences
 
 ### Researcher at xrHuman Lab
 - **Institute**: Korea Institute of Science and Technology, Seoul, South Korea
-- **Since**: September 2021
+- **Since**: September 2021 - August 2024
 - **Work**: 3D Human Avatar Reconstuction & Generation
 
 ### Master’s Course Researcher at KyungHee University PerCV Lab
@@ -51,7 +51,7 @@ Publications
 
 Projects
 ======
-- **"문장으로부터의 3차원 동영상 자동 생성 기술"**, Generate 2D & 3D video from text prompt, Korea Institute of Science and Technology, April - December 2023,
+- **"문장으로부터의 3차원 동영상 자동 생성 기술"**, Generate 2D & 3D video from text prompt, Korea Institute of Science and Technology, April 2023 - August 2024,
 - **"3D 볼류메트릭 브레이킹 댄스 비디오 생성"**, Enhancing 3D avatar quality using differentiable rendering, Korea Institute of Science and Technology, Jan - December 2023,
 - **"실존인물 모사 인공지능 디지털 휴먼 생성 및 인터랙션 기술"**, Reconstruct realistic 3D avatar multi-view camera, Korea Institute of Science and Technology, Jan - December 2022,
 - **"LIGHT-HVAC 에너지최적화 시스템 및 BM 개발"**, Object detection based IoT S/W development, Korea Electronics Technology Institute, Jan 2018 - August 2019,
