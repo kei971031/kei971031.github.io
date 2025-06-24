@@ -13,7 +13,7 @@ About Me
 ======
 
 Hello, I'm **Sanghun Kim**, a **Computer Vision and Deep Learning Research Engineer** with specialized research interests in **3D Reconstruction & Generation**.
-I'm currently an Researcher at [xrHuman Lab](https://www.xrhumanlab.net/), Korea Institute of Science and Technology(KIST), where I focus on reconstructing 3D, including people and objects, from multi-views.
+I was a researcher at [xrHuman Lab](https://www.xrhumanlab.net/), Korea Institute of Science and Technology(KIST), where I focus on reconstructing 3D, including people and objects, from multi-views.
 I earned Bachelor's & Master's degrees in Computer Science from KyungHee University.
 
 **Research Interests.**
@@ -26,7 +26,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <h2>
    4D video Generation from single image
-   <h4> SV3D 네트워크를 튜닝하여, 이미지 입력으로부터 4D 애니메이션 제작 </h4>
+   <h4> SV3D 네트워크를 튜닝하여, 이미지 입력으로부터 4D 애니메이션 제작하는 파이프라인 개발 </h4>
   <div style="text-align: center;">
     <img src='/images/concat.gif' alt="4D Animation" width="1200" style="margin-top: 30px;"/>
   </div>  </h2></div></div>
@@ -45,7 +45,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <h2>
    Novel view & pose synthesis using stable diffusion controlnet
-   <h4> ControlNet을 활용하여, 3D 오브젝트 생성에 필요한 다시점 랜더링 이미지 생성 </h4>
+   <h4> ControlNet기반 Human 다시점 랜더링 이미지 생성 </h4>
   <div style="text-align: center;">
     <img src='/images/controlnet.png' alt="Controlnet" width="1200" style="margin-top: 30px;"/>
   </div>  </h2></div></div>
@@ -54,7 +54,7 @@ Researches
   <div style="margin-bottom: 15px;">
   <h2>
    3D volumetric diffusion model
-  <h4> Plenoxel 방식으로 표현된 3D 볼륨을 생성하기 위한 3D Diffusion 네트워크 학습</h4>
+  <h4> Voxel Grid 기반 3D Diffusion 네트워크 개발</h4>
   <div style="text-align: center;">
     <img src='/images/plenoxel5.gif' alt="Plenoxel2" width="1200" style="margin-top: 30px;"/>
 </div> </h2> </div> </div>
