@@ -26,7 +26,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <h2>
    4D video Generation from single image
-   <h4> SV3D 네트워크를 튜닝하여, 이미지 입력으로부터 4D 애니메이션 제작하는 파이프라인 개발 </h4>
+   <h4> SV3D 네트워크를 튜닝하여, 이미지 입력으로부터 4D 애니메이션을 제작하는 파이프라인 개발 </h4>
   <div style="text-align: center;">
     <img src='/images/concat.gif' alt="4D Animation" width="1200" style="margin-top: 30px;"/>
   </div>  </h2></div></div>
